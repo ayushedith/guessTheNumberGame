@@ -33,9 +33,9 @@ body {
   }
   
   button {
-    padding: 8px 16px; /* Decreased padding for smaller button */
+    padding: 8px 16px; 
     font-size: 16px;
-    border-radius: 0 5px 5px 0; /* Increased border radius */
+    border-radius: 0 5px 5px 0; 
     border: none;
     background-color: #4caf50;
     color: white;
